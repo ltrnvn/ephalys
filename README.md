@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Léon Tran-Van</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ltrnvn&label=Profile%20views&color=0e75b6&style=flat" alt="ltrnvn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ephalys&label=Profile%20views&color=0e75b6&style=flat" alt="ephalys" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ltrnvn" alt="ltrnvn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ephalys" alt="ephalys" /></a> </p>
 
 - 🔭 I’m currently working at **Hager**
 
