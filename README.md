@@ -1,7 +1,7 @@
 # Léon Tran-Van
 
 [![Linkedin Badge](https://img.shields.io/badge/-Léon%20Tran--Van-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leon-tran-van/)](https://www.linkedin.com/in/leon-tran-van/)
-[![Mail Badge](https://img.shields.io/badge/-nvnrtnl@gmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:nvnrtnl@gmail.com)](mailto:nvnrtnl@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-contact@leontranvan.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:contact@leontranvan.com)](mailto:contact@leontranvan.com)
 [![Spotify Badge](https://img.shields.io/badge/-ephalys-191414?style=flat-square&logo=spotify&link=mailto:nvnrtnl@gmail.com)](mailto:nvnrtnl@gmail.com)
 
 I'm a <i>front-end</i> developer with a designer soul curbed by color blindness currently working at Hager.
